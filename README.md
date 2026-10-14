@@ -7,6 +7,8 @@
 [![Tests](https://img.shields.io/badge/pytest-331%20passed-brightgreen.svg)](tests/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**Medium Article:** [Building GPT From Scratch: The Mathematics, Architecture, Training, and Engineering Behind Our Shakespearean Language Model](https://medium.com/@zaidbinnaveed04/building-gpt-from-scratch-the-mathematics-architecture-training-and-engineering-behind-our-8e13a74ea747)
+
 An educational, understandable, and production-ready **Pre-LN Causal Decoder-Only Transformer** (809,984 parameters) built completely from mathematical primitives and trained from scratch on the Tiny Shakespeare corpus.
 
 - **Author / Owner**: Zaid Bin Naveed (`zaidbinnaveed`)
